@@ -1,1 +1,1 @@
-These notes were compiled to support my learning journey. The content is sourced from a variety of tutorials, videos, books, and reinforced through consistent daily practice.
+These are the notes I used to educate myself. I gathered this information from various tutorials, videos, books, and through my daily practice.
